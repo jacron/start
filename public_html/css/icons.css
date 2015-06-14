@@ -43,8 +43,7 @@ a.ing {
     background-position: -73px -158px;
 }
 a.nzbindex {
-    background-position: 0 -224px;
-    background-color:  #11386d;
+    background: #11386d 0 -224px;
 }
 a.nzbsearch {
     background-position: -806px -354px;
@@ -299,8 +298,7 @@ a.lynda {
     background-position: -77px -1290px;
 }
 a.ziggo {
-    background-position: -616px -1276px;
-    background-color:  #11386d;
+    background: #11386d -616px -1276px;
 }
 a.ted {
     background-position: -878px -968px;
@@ -312,8 +310,7 @@ a.joop {
     background-position: -284px -1310px;
 }
 a.opp {
-    background-position: -600px -1330px;
-    background-color: #003363 !important;
+    background: #003363 -600px -1330px;
 }
 a.sdn {
     background-position: -699px -1322px;
@@ -326,4 +323,10 @@ a.tweakers {
 }
 a.apple {
     background-position: -890px -828px;
+}
+a.thinkster {
+    background-position: -1049px 0;
+}
+a.udacity {
+    background-position: -1034px -69px;
 }
